@@ -15,3 +15,9 @@ Solucionar errores durante la instalacion
 
 - mkdir web/sites/default/files
 - chmod -R 777 web/sites/default/files
+
+Para iniciar la instalacion
+http://localhost:8081/
+
+Adminer
+http://localhost:8080/?server=db&username=drupal&db=drupal
